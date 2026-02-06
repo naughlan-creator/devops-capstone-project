@@ -1,3 +1,11 @@
+---
+name: User Story
+about: Create a user story using standard form
+title: "[User Story]"
+labels: ["user-story"]
+assignees: ""
+---
+
 **As a** [role]  
 **I need** [function]  
 **So that** [benefit]  
