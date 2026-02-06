@@ -1,3 +1,6 @@
+Project name: devops-capstone-project
+The final project of the IBM DevOps and Software Engineer Professional Certificate
+
 # DevOps Capstone Template
 
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
