@@ -1,4 +1,7 @@
 Project name: devops-capstone-project
+
+![Build Status](https://github.com/naughlan-creator/devops-capstone-project/actions/workflows/ci-build.yaml/badge.svg)
+
 The final project of the IBM DevOps and Software Engineer Professional Certificate
 
 # DevOps Capstone Template
